@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+### My Favourite Things
+
+* Watching TV Shows
+  * Thrillers
+  * History
+* Listening to Music
+  * Rock
+  * Jazz
